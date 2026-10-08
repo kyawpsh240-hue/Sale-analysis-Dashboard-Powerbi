@@ -4,7 +4,7 @@ An interactive Power BI dashboard developed as a freelance project for a family 
 
 ## Dashboard Preview
 
-![Sales Analysis Dashboard](dashboard-preview.png)
+![Sales Analysis Dashboard](Sales analysis Dashboard Preview.png)
 
 ## Business Questions
 
