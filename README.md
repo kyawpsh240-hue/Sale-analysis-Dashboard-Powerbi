@@ -2,6 +2,10 @@
 
 An interactive Power BI dashboard developed as a freelance project for a family friend's small business in Myanmar. The report brings sales information into one view to support reviews of sales volume, product demand, and customer purchasing activity.
 
+## Dashboard Preview
+
+![Sales Analysis Dashboard](dashboard-preview.png)
+
 ## Business Questions
 
 - Which products account for the highest sales quantities?
